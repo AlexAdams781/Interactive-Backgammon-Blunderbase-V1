@@ -1,0 +1,75 @@
+Database Schema
+
+Automatic Categories:
+Cube/Checker
+Double/Take
+# Of Checkers in the Zone
+Match Score
+
+Manual Categories:
+Checker
+	Score (x away, x away, (-)cube position) (- means bottom player owns it)
+	Blitz
+	Prime vs. Prime
+	Containment
+		Bearing Off
+	Holding Game
+		Pay Now or Pay Later
+		Mutual
+		Release Point
+		Held/Holding
+	20 Point Anchor
+	Bar Point Anchor
+	Improve Anchor
+	Doubles
+	1 Checker Back
+	Ace Point Game
+	Early/Middle/Late Game
+	To Hit or Not To Hit
+		Good Board
+		Hitting Battle
+		Holding Game
+	To Split or Not To Split
+	Backgame
+		Advanced
+		Middle
+		Back
+	4 Prime
+	Hit Against Full Board
+	One Checker Back
+	Flexibility
+	Hit Inside or Outside
+	Backcheckers
+	Bearoff
+		1 Point
+		2 Point
+		3 Point
+
+Cube
+	Score (x away, x away, (-)cube position) (- means bottom player owns it)
+	Holding Game
+		5 Pt
+		4 Pt
+		3 Pt
+		2 Pt
+		Two Anchors
+
+	Backgame
+		Advanced
+		Mid
+		Back
+
+	Blitz
+		One in One Out
+		2 Out
+		2 In
+		One In
+		One Outfield
+		xx board
+	Action Cube
+	From the Bar
+	One Checker Back
+	Ace Point
+	Bearoff
+	Containment
+	Checkers In Zone
